@@ -101,10 +101,12 @@
 	FAQs
 */
 .question {
-	font-size: 13px;
+	margin-left: 2%;
+	font-size: 16px;
 	color: red;
 }
 .answer {
-	font-size: 13px;
+	margin-left: 2%;
+	font-size: 16px;
 	color: blue;
 }
