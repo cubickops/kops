@@ -11,7 +11,7 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 			controller: 'HomeCtrl'
 		})
 		.when('/staff', {
-			templateUrl: 'pages/leaders.html',
+			templateUrl: 'pages/staff.html',
 			controller: 'LeadersCtrl'
 		})
 		.when('/lands', {
