@@ -13,6 +13,10 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 		.when('/leaders', {
 			templateUrl: 'pages/leaders.html',
 			controller: 'LeadersCtrl'
+		})
+		.when('/faqs', {
+			templateUrl: 'pages/faqs.html',
+			controller: 'MainCtrl'
 		});
 }]);
 
