@@ -4,19 +4,19 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 	$routeProvider
 		.when('/', {
 			templateUrl: 'pages/home.html',
-			controller: 'HomeCtrl'
+			controller: 'MainCtrl'
 		})
 		.when('/home', {
 			templateUrl: 'pages/home.html',
-			controller: 'HomeCtrl'
+			controller: 'MainCtrl'
 		})
 		.when('/staff', {
 			templateUrl: 'pages/staff.html',
-			controller: 'LeadersCtrl'
+			controller: 'MainCtrl'
 		})
 		.when('/lands', {
 			templateUrl: 'pages/lands.html',
-			controller: 'LeadersCtrl'
+			controller: 'MainCtrl'
 		})
 		.when('/faqs', {
 			templateUrl: 'pages/faqs.html',
@@ -30,12 +30,7 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 
 kopsApp.controller('MainCtrl',['$scope',function($scope){
 	var vm = $scope;
-}]);
-
-kopsApp.controller('LeadersCtrl',['$scope',function($scope){
-	var vm = $scope;
-}]);
-
-kopsApp.controller('HomeCtrl',['$scope',function($scope){
-	var vm = $scope;
+	vm.closeMenu = function(){
+		$('#main-menu').collapse();
+	}
 }]);
