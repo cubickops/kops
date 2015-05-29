@@ -31,6 +31,7 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 kopsApp.controller('MainCtrl',['$scope',function($scope){
 	var vm = $scope;
 	vm.closeMenu = function(){
+		alert('Hi');
 		$('#main-menu').collapse();
 	}
 }]);
