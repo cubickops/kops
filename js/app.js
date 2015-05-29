@@ -25,6 +25,10 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 		.when('/textures', {
 			templateUrl: 'pages/textures.html',
 			controller: 'MainCtrl'
+		})
+		.when('/events', {
+			templateUrl: 'pages/events.html',
+			controller: 'MainCtrl'
 		});
 }]);
 
