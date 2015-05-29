@@ -32,6 +32,6 @@ kopsApp.controller('MainCtrl',['$scope',function($scope){
 	var vm = $scope;
 	vm.closeMenu = function(){
 		alert('Hi');
-		$("#main-menu").collapse(toggle);
+		angular.element('#main-menu').collapse('hide');
 	}
 }]);
