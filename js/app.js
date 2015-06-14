@@ -41,4 +41,5 @@ kopsApp.controller('MainCtrl',['$scope',function($scope){
 	vm.closeMenu = function(){
 		angular.element('#main-menu').collapse('hide');
 	}
+	console.log("Actualizado");
 }]);
