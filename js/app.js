@@ -26,6 +26,10 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 			templateUrl: 'pages/textures.html',
 			controller: 'MainCtrl'
 		})
+		.when('/recipes', {
+			templateUrl: 'pages/recipes.html',
+			controller: 'RecipesCtrl'
+		})
 		.when('/testarea', {
 			templateUrl: 'pages/home_testImg.html',
 			controller: 'MainCtrl'
@@ -42,3 +46,18 @@ kopsApp.controller('MainCtrl',['$scope',function($scope){
 		angular.element('#main-menu').collapse('hide');
 	}
 }]);
+
+kopsApp.controller('RecipesCtrl', ['$scope','$http', function($scope,$http){
+	var vm = $scope;
+	vm.searchItem = Array();
+	$http.get('data/recipes.json').success(function(data){
+		vm.recipeList = data;
+	})
+
+	vm.search = function(ingredient){
+		console.log(vm.searchItem);
+		if(ingredient.recipe == '1'){
+			vm.searchItem.item = ingredient.name;
+		}
+	}
+}])
