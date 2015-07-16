@@ -26,6 +26,10 @@ kopsApp.config(['$routeProvider',function($routeProvider) {
 			templateUrl: 'pages/textures.html',
 			controller: 'MainCtrl'
 		})
+		.when('/shop', {
+			templateUrl: 'pages/shop.html',
+			controller: 'MainCtrl'
+		})
 		.when('/recipes', {
 			templateUrl: 'pages/recipes.html',
 			controller: 'RecipesCtrl'
