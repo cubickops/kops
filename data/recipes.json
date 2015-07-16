@@ -1,0 +1,1543 @@
+[
+  {
+    "item": "Mud",
+    "ingredients": [
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Soil",
+    "ingredients": [
+      {
+        "name": "Dirt",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "Tree Leaves",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Quicksand",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "Mud",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Oil",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Water",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "String",
+    "ingredients": [
+      {
+        "name": "Grass or Tropical Grass",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Rope",
+    "ingredients": [
+      {
+        "name": "String",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Brick",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "4",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Block",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "3",
+        "recipe": "0"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Clay Brick",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "4",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Clay Block",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Dirt",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Sandstone",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Iron Block",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Coal Block",
+    "ingredients": [
+      {
+        "name": "Coal",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Grey Checkers",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "2",
+        "recipe": "0"
+      },{
+        "name": "Coal",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Grey Checkers",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "2",
+        "recipe": "0"
+      },{
+        "name": "Coal Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Grey Checkers",
+    "ingredients": [
+      {
+        "name": "Stone Block",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Coal Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "White Plaster",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sand",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Red Brick",
+    "ingredients": [
+      {
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sand",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gold Block",
+    "ingredients": [
+      {
+        "name": "Gold",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Sandy Block",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Sandy Brick",
+    "ingredients": [
+      {
+        "name": "Sand",
+        "amount": "4",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  }
+  ,
+  {
+    "item": "Silver Block",
+    "ingredients": [
+      {
+        "name": "Silver",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Cobblestone",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "5",
+        "recipe": "0"
+      },{
+        "name": "Mud",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Clay Lump",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Sand",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Spike Floor",
+    "ingredients": [
+      {
+        "name": "Metal Plate",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Thorns",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Spike Floor",
+    "ingredients": [
+      {
+        "name": "Metal Plate",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Nest",
+    "ingredients": [
+      {
+        "name": "Egg",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Bouncy Block",
+    "ingredients": [
+      {
+        "name": "Rubber",
+        "amount": "4",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Glue",
+    "ingredients": [
+      {
+        "name": "Rubber",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Round Neck Pot",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Round Pot",
+    "ingredients": [
+      {
+        "name": "Clay Lump",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "White Lattice",
+    "ingredients": [
+      {
+        "name": "Wood Lattice",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Crude Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Warning Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Yellow Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stop Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Left Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Right Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Up Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Down Sign",
+    "ingredients": [
+      {
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "White Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Varnish",
+    "ingredients": [
+      {
+        "name": "Solvent",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Pine Resin",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stone Hammer",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Mortar and Pestle",
+    "ingredients": [
+      {
+        "name": "Stone",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Clay Lump",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Workbench",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      },{
+        "name": "Sticks",
+        "amount": "2",
+        "recipe": "1"
+      },{
+        "name": "Any Trunk",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Stone Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Sewing Kit",
+    "ingredients": [
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Cotton",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Tacks",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Persian Rug",
+    "ingredients": [
+      {
+        "name": "Cotton",
+        "amount": "3",
+        "recipe": "0"
+      },{
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Cloth",
+    "ingredients": [
+      {
+        "name": "Cotton",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gizmo",
+    "ingredients": [
+      {
+        "name": "Gold",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glass",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Sand",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Magnet",
+    "ingredients": [
+      {
+        "name": "Gizmo",
+        "amount": "3",
+        "recipe": "1"
+      },{
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Hammer",
+    "ingredients": [
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Steel Block Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Block",
+    "ingredients": [
+      {
+        "name": "Charcoal",
+        "amount": "1",
+        "recipe": "1"
+      },{
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stainless Steel Block",
+    "ingredients": [
+      {
+        "name": "Silver",
+        "amount": "1",
+        "recipe": "0"
+      },{
+        "name": "Refined Steel",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Distiller",
+    "ingredients": [
+      {
+        "name": "Steel Cauldron",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Rubber Hose",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Pipe",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Brick",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Candle",
+    "ingredients": [
+      {
+        "name": "Beeswax",
+        "amount": "2",
+        "recipe": "0"
+      },
+      {
+        "name": "String",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Torch",
+    "ingredients": [
+      {
+        "name": "Oil",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Cloth",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Purple Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Purple Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Red Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Blue Paper Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Lantern",
+    "ingredients": [
+      {
+        "name": "Paper",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glue",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Cloudy Potion",
+    "ingredients": [
+      {
+        "name": "Sunny Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Spicy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Fiery Potion",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Magical Potion",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Gum",
+        "amount": "4",
+        "recipe": "1"
+      },
+      {
+        "name": "Purple Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Golden Wand",
+    "ingredients": [
+      {
+        "name": "Whittled Stick",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Gold",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silvery Wand",
+    "ingredients": [
+      {
+        "name": "Whittled Stick",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Varnish",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Silver",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Harm Wand 1500power",
+    "ingredients": [
+      {
+        "name": "Golden Wand",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Magical Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Bones",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Red Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Knock Back Wand 1500power",
+    "ingredients": [
+      {
+        "name": "Silvery Wand",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Magical Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Gold Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Magic Gem",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Red Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Red Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Blue Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Blue Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Fadey Foam 5-5",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Phantom Foam",
+    "ingredients": [
+      {
+        "name": "Cloudy Potion",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Ghost Dust",
+        "amount": "6",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Green Goop",
+    "ingredients": [
+      {
+        "name": "Bouncy Block",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "3",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Snot",
+    "ingredients": [
+      {
+        "name": "Bouncy Block",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Solvent",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Yellow Dye",
+        "amount": "3",
+        "recipe": "1"
+      },
+      {
+        "name": "Green Dye",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "None",
+    "bench": "Workbench"
+  },{
+    "item": "Metal Plate",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "3",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Saw",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Palm Trunk",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Tacks 5-10",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Pipe",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Chisel",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Wrench",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "2",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Screwdriver",
+    "ingredients": [
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Sticks",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Prison Bars",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "4",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Iron Stairs",
+    "ingredients": [
+      {
+        "name": "Iron Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gold Stairs",
+    "ingredients": [
+      {
+        "name": "Gold Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silver Stairs",
+    "ingredients": [
+      {
+        "name": "Silver Block",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Forge",
+    "ingredients": [
+      {
+        "name": "Metal Plate",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Iron",
+        "amount": "1",
+        "recipe": "0"
+      },
+      {
+        "name": "Coal",
+        "amount": "1",
+        "recipe": "0"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Iron Pole",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Street Light",
+    "ingredients": [
+      {
+        "name": "Refined Iron",
+        "amount": "2",
+        "recipe": "1"
+      },
+      {
+        "name": "Candle",
+        "amount": "1",
+        "recipe": "1"
+      },
+      {
+        "name": "Glass",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },{
+    "item": "Metal Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Iron Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Gold Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Gold Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Silver Plate 2-2",
+    "ingredients": [
+      {
+        "name": "Silver Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Any Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Steel Plate",
+    "ingredients": [
+      {
+        "name": "Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  },
+  {
+    "item": "Stainless Steel Plate",
+    "ingredients": [
+      {
+        "name": "Stainless Steel Block",
+        "amount": "1",
+        "recipe": "1"
+      }
+    ],
+    "tool": "Steel Hammer",
+    "bench": "Workbench"
+  }
+]
